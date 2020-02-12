@@ -8,8 +8,8 @@ class Dog
     @the_dog_name = dog_name
   end
   
-  
-  
-  def
+  def name
+    dog_name
+  end
   
 end
